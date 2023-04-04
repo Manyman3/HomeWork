@@ -1,0 +1,18 @@
+git init - Initialize your projeck
+ls - list of directoryes/files in CWD
+ls -a - list of directoryes/files in CWD + hidden files
+git branch -m <new_branch_name> - alter current-workbranch
+git add <file_name/directory_name> - add files to check
+git add . - add all projeck to check
+git commit - commit all changes 
+git log - log info about cw repo
+git status- status of project
+
+Statuses
+    !
+Untracked - repo has alredy Initialized but GIT doesn't check what happening
+    !
+ADD - repo has alredy added to "check"
+    !
+MODIFIED - smth had been changed
+    !
